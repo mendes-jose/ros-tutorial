@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/mendes/Dev/ros-tutorial/devel -DCMAKE_INSTALL_PREFIX=/home/mendes/Dev/ros-tutorial/install -G Unix Makefiles
